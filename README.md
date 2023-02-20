@@ -20,3 +20,8 @@ A Noodl text framework based on [Lexical](https://lexical.dev). This provides Ri
 ### [Noodl-Ably-Sockets](https://github.com/pragmaflowinc/noodl-ably-sockets)
 
 A Noodl implementation for [Ably Websockets](https://ably.com/). We have worked with Ably for many years and strongly recommend using ably for implementing WebSockets into a NoCode app
+
+
+### [Noodl-Address-Input](https://github.com/pragmaflowinc/Noodl-address-input/)
+
+A whole fork of the js-samples for Noodl implementations
