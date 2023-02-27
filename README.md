@@ -25,3 +25,8 @@ A Noodl implementation for [Ably Websockets](https://ably.com/). We have worked 
 ### [Noodl-Address-Input](https://github.com/pragmaflowinc/Noodl-address-input/)
 
 A whole fork of the js-samples for Noodl implementations
+
+
+### [Noodl-Error-Bounderies](https://github.com/pragmaflowinc/noodl-error-bounderies/)
+
+A component that prevents errors bubbling all the way to app and causing white screens.
